@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/Manolo/Workspace1/ProyectoLog/lib/mysql-connector-java-8.0.17.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="D:/Manolo/Workspace1/ProyectoLog/lib/commons-dbcp2-2.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Manolo/Workspace1/ProyectoLog/lib/hibernate-entitymanager-5.0.7.Final.jar"/>
+	<classpathentry kind="lib" path="D:/Manolo/Workspace1/ProyectoLog/lib/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Manolo/Workspace1/ProyectoLog/lib/jstl-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Manolo/Workspace1/ProyectoLog/lib/jta-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Manolo/Workspace1/ProyectoLog/lib/junit-4.11.jar"/>
+	<classpathentry kind="lib" path="D:/Manolo/Workspace1/ProyectoLog/lib/spring-data-jpa-1.9.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Manolo/Workspace1/ProyectoLog/lib/spring-webmvc-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Manolo/Workspace1/ProyectoLog/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Manolo/Workspace1/ProyectoLog/lib/spring-beans-5.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Manolo/Workspace1/ProyectoLog/lib/spring-jcl-5.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Manolo/Workspace1/ProyectoLog/lib/spring-core-5.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Manolo/Workspace1/ProyectoLog/lib/spring-boot-1.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Manolo/Workspace1/ProyectoLog/lib/spring-context-4.1.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Manolo/Workspace1/ProyectoLog/lib/spring-test-5.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Manolo/Workspace1/ProyectoLog/lib/spring-aop-5.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Manolo/Workspace1/ProyectoLog/lib/spring-expression-5.2.0.RELEASE.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

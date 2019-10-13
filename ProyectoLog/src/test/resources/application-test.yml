@@ -1,0 +1,15 @@
+spring:
+  profiles:
+    active: test
+
+config:
+  dblog:
+    dbms: mysql
+    serverName: 127.0.0.1
+    portNumber: 3306
+    userName: root
+    password: eu73M#.jmvf%7
+    logFileFolder: D:\\Manolo
+    
+
+
